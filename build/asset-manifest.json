@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a066bcba.css",
+    "main.js": "/static/js/main.e4eec828.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/dev.jpg": "/static/media/dev.46b203308cb7a45296c5.jpg",
+    "static/media/airbnb.png": "/static/media/airbnb.e577fc06cba80c3f6482.png",
+    "static/media/timer.png": "/static/media/timer.644fa7fa49187a47a967.png",
+    "static/media/ellis.png": "/static/media/ellis.b297a0590b51f988fc2b.png",
+    "static/media/business-card.png": "/static/media/business-card.4488d5180db47c00ab26.png",
+    "static/media/me.png": "/static/media/me.a4a2105e40eede920484.png",
+    "static/media/fact-sheet.png": "/static/media/fact-sheet.d2ab5cb7725017ad1281.png",
+    "static/media/email.png": "/static/media/email.f62c734188b1eeb61271.png",
+    "static/media/clock[46].png": "/static/media/clock[46].b3cd7cdfe8e824562d6b.png",
+    "static/media/quiz.png": "/static/media/quiz.3f9e42874f4bdc1e338d.png",
+    "static/media/calculator.png": "/static/media/calculator.7790a7ce8156b5540e8a.png",
+    "static/media/certificate.png": "/static/media/certificate.c188c3e16be9e3278c8e.png",
+    "static/media/moon.png": "/static/media/moon.37ea61de177dbfcafa6d.png",
+    "static/media/address.png": "/static/media/address.b1bc94352fd1d79f08ac.png",
+    "static/media/sun.png": "/static/media/sun.a71363ab4471629f7e13.png",
+    "index.html": "/index.html",
+    "main.a066bcba.css.map": "/static/css/main.a066bcba.css.map",
+    "main.e4eec828.js.map": "/static/js/main.e4eec828.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a066bcba.css",
+    "static/js/main.e4eec828.js"
+  ]
+}
